@@ -1,0 +1,22 @@
+
+### 🦒 Colab
+
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HandRefiner-colab/blob/main/HandRefiner_colab.ipynb) | HandRefiner_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HandRefiner-colab/blob/main/HandRefiner_gradio_colab.ipynb) | HandRefiner_gradio_colab
+
+### 🧬 Code
+https://github.com/wenquanlu/HandRefiner
+
+### 📄 Paper
+https://arxiv.org/abs/2311.17957
+
+### 🖼 Output
+
+![Screenshot 2024-01-08 175646](https://github.com/camenduru/HandRefiner-colab/assets/54370274/5962b679-877e-4cc3-91dd-01c0ec379167)
+
+![banner](https://github.com/camenduru/HandRefiner-colab/assets/54370274/59ba36ff-ec0d-4403-a6a9-c0bc01eab70e)
+
+### 🏢 Sponsor
+https://modelslab.com
